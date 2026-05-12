@@ -3,14 +3,11 @@
 ## 📌 A little bit about me
 - Studying CS w/ Software Spec. with a minor in Economics @ [UAlberta](https://www.ualberta.ca/en/computing-science/index.html)
 - Currently Junior-Lead of the Data Collection Unit & Full-Stack Developer @ [Alberta Bionix](https://albertabionix.ca/)
-- Loves food
-
-## 📌 Future plans
+- Previously the Webmaster & Executive @ [Help Young Minds](/guides/content/editing-an-existing-page)
 - Releasing an app for [EDSS](https://www.edss.ca/home)
 - Building an app to combine Uber and [Safewalk](https://su.ualberta.ca/these-are-your-resources/this-is-your-wellness/safewalk/)
-
-## 📌 Previous experiences
-- Webmaster & Executive @ [Help Young Minds](/guides/content/editing-an-existing-page)
+- Previously the Webmaster & Executive @ [Help Young Minds](/guides/content/editing-an-existing-page)
+- Loves food
 
 ## 📌 GitHub Stats
 <div align="center">
