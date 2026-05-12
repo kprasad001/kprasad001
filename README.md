@@ -1,5 +1,3 @@
-# Hi there, I'm Kishan!
-
 ![banner](./assets/banner.png)
 
 ## 📌 A little bit about me
