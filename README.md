@@ -1,31 +1,27 @@
 # Hi there, I'm Kishan!
 
-## A little bit about me
+## 📌 A little bit about me
 - Studying CS w/ Software Spec. with a minor in Economics @ [UAlberta](https://www.ualberta.ca/en/computing-science/index.html)
 - Currently a junior-lead of the Data Collection Unit @ [Alberta Bionix](https://albertabionix.ca/)
-- Participated in four hackathons, winning two of them
+- Loves food
 
-## Future plans
+## 📌 Future plans
 - Releasing an app for [EDSS](https://www.edss.ca/home)
 - Building an app to combine Uber and [Safewalk](https://su.ualberta.ca/these-are-your-resources/this-is-your-wellness/safewalk/)
 
-## Previous experiences
+## 📌 Previous experiences
 - Webmaster & Executive @ [Help Young Minds](/guides/content/editing-an-existing-page)
 
-## 📊 GitHub Stats
+## 📌 GitHub Stats
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kprasad001&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kprasad001&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kprasad001&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kprasad001&layout=compact&theme=tokyonight"/>
 
 </div>
 
----
-
----
-
-## Tech Stack
+## 📌 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,7 +45,7 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kkprasad1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://kprasad001.github.io/portfolio/#/)
