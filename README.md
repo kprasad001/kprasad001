@@ -1,11 +1,10 @@
 # Hi there, I'm Kishan!
 
+![banner](./assets/banner.png)
+
 ## 📌 A little bit about me
 - Studying CS w/ Software Spec. with a minor in Economics @ [UAlberta](https://www.ualberta.ca/en/computing-science/index.html)
 - Currently Junior-Lead of the Data Collection Unit & Full-Stack Developer @ [Alberta Bionix](https://albertabionix.ca/)
-- Previously the Webmaster & Executive @ [Help Young Minds](/guides/content/editing-an-existing-page)
-- Releasing an app for [EDSS](https://www.edss.ca/home)
-- Building an app to combine Uber and [Safewalk](https://su.ualberta.ca/these-are-your-resources/this-is-your-wellness/safewalk/)
 - Previously the Webmaster & Executive @ [Help Young Minds](/guides/content/editing-an-existing-page)
 - Loves food
 
