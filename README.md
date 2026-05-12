@@ -2,7 +2,7 @@
 
 ## 📌 A little bit about me
 - Studying CS w/ Software Spec. with a minor in Economics @ [UAlberta](https://www.ualberta.ca/en/computing-science/index.html)
-- Currently a junior-lead of the Data Collection Unit @ [Alberta Bionix](https://albertabionix.ca/)
+- Currently Junior-Lead of the Data Collection Unit & Full-Stack Developer @ [Alberta Bionix](https://albertabionix.ca/)
 - Loves food
 
 ## 📌 Future plans
