@@ -2,7 +2,7 @@
 
 ## 📌 A little bit about me
 - Studying CS w/ Software Spec. with a minor in Economics @ [UAlberta](https://www.ualberta.ca/en/computing-science/index.html)
-- Currently Junior-Lead of the Data Collection Unit & Full-Stack Developer @ [Alberta Bionix](https://albertabionix.ca/)
+- Currently the Software Lead of the Data Collection Unit & Full-Stack Developer @ [Alberta Bionix](https://albertabionix.ca/)
 - Previously the Webmaster & Executive @ [Help Young Minds](/guides/content/editing-an-existing-page)
 - Loves food
 
