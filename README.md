@@ -1,10 +1,17 @@
 ![banner](./assets/banner.png)
 
 ## 📌 A little bit about me
-- Studying CS w/ Software Spec. with a minor in Economics @ [UAlberta](https://www.ualberta.ca/en/computing-science/index.html)
-- Currently the Software Lead of the Data Collection Unit & Full-Stack Developer @ [Alberta Bionix](https://albertabionix.ca/)
-- Previously the Webmaster & Executive @ [Help Young Minds](/guides/content/editing-an-existing-page)
-- Loves food
+- Studying CS w/ Software Spec. with a minor in Economics @ [UAlberta](https://www.ualberta.ca/en/computing-science/index.html).
+- Interested in software development and embedded systems.
+- Currently eating ramen.
+
+## 📌 Current roles
+- Currently the Software Lead of the Data Collection Unit & Full-Stack Developer @ [Alberta Bionix](https://albertabionix.ca/).
+- Currently a Technology Associate @ [NAT](https://www.nat.ltd/).
+- Currently the Webmaster & Executive @ [Young Minds Eye](https://www.youngmindseye.com/executive-members).
+
+## 📌 Previous roles
+- Previously the Webmaster & Executive @ [Help Young Minds](https://helpyoungminds.com/).
 
 ## 📌 GitHub Stats
 <div align="center">
